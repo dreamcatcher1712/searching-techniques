@@ -29,3 +29,10 @@ int main(void) {
     printf("Element is found at index %d", result);
   return 0;
 }
+
+TIME COMPLEXITIES:
+Best case complexity: O(1)
+Average case complexity: O(log n)
+Worst case complexity: O(log n)
+
+SPACE COMPLEXITY: O(1).
