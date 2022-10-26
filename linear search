@@ -18,3 +18,6 @@ int main() {
 
   (result == -1) ? printf("Element not found") : printf("Element found at index: %d", result);
 }
+
+TIME COMPLEXITY: O(n)
+SPACE COMPLEXITY: O(1)
